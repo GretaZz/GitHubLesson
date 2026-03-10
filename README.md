@@ -46,6 +46,9 @@ The analysis generates a multi-panel figure combining four plots:
 - **Bottom left:** [TODO: What does this plot show?]
 - **Bottom right:** [TODO: What does this plot show?]
 
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/11930fe4-f81e-4362-bf7e-1e1d234873c7" />
+
+
 
 
 ## Authors
