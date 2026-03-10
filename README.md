@@ -15,7 +15,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Sample size:** More than 10.
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** 2007, 2008, 2009.
 
 ## Variables Measured
 
