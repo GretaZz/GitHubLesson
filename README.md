@@ -41,10 +41,10 @@ The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
 The analysis generates a multi-panel figure combining four plots:
 
-- **Top left:** [TODO: What does this plot show?]
-- **Top right:** [TODO: What does this plot show?]
-- **Bottom left:** [TODO: What does this plot show?]
-- **Bottom right:** [TODO: What does this plot show?]
+- **Top left:** This is a boxplot of bill length by species
+- **Top right:** This is a boxplot of flipper length by spcies
+- **Bottom left:** This is a cluster plot of bill length and flipper length by species
+- **Bottom right:** This is a regression plot of bill length and flipper length by species - linear regression
 
 <img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/11930fe4-f81e-4362-bf7e-1e1d234873c7" />
 
