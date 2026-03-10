@@ -13,7 +13,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Research location:** Torgersen, Biscoe, Dream islands.
 
-**Sample size:** More than 10.
+**Sample size:** 344
 
 **Years of data collection:** 2007, 2008, 2009.
 
