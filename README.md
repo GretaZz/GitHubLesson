@@ -50,6 +50,6 @@ The analysis generates a multi-panel figure combining four plots:
 
 ## Authors
 
-[TODO: Add your name here! This is a great first commit.]
+Greta Zordan
 
 
